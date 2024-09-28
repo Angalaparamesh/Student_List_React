@@ -1,0 +1,48 @@
+*{
+  margin:0;
+  padding:0;
+
+}
+.navbar {
+  background-color: orange;
+  display:flex;
+  align-items: flex-end;
+  gap:25px;
+}
+
+.link{
+  font-size: 25px;
+  height:70px;
+  color:white;
+}
+
+.list{
+  text-align: left;
+  margin:10px;
+  padding:10px;
+}
+
+li{
+  font-size: larger;
+  margin:10px;
+}
+
+.btn1{
+  background-color: darkblue;
+  width:25%;
+  height:30px;
+  border:none;
+  color:white;
+  border-radius:20px;
+  font-size: 17px;
+}
+
+.btn2 {
+  background-color: red;
+  width:25%;
+  height:30px;
+  border:none;
+  color:white;
+  border-radius:20px;
+  font-size: 17px;
+}
