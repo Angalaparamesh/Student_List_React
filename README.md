@@ -21,4 +21,4 @@ useContext: For managing global state (students and favorite lists).
 CSS: Basic styling
 
 
-Checkout Link: []
+Checkout Link: [https://student-list-react-alpha.vercel.app/Favouritestudent]
